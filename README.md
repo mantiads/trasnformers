@@ -1,6 +1,6 @@
 [Acceso a archivo Jupyter.](https://github.com/mantiads/trasnformers/blob/main/1_5_fine_tunned.ipynb)
 
-# <p align="center"> Análisis de Sentimientos en Español mediante Finetuning de Transfer Learning.</p>
+# <p align="center"> NLP. transformers : Transfer Learning + Fine Tuning. Análisis de Sentimientos en Español.</p>
 
 ![Data Analytics](/img/transfer_learning.PNG)
 
