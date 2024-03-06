@@ -19,3 +19,5 @@ Los beneficios del transfer learning y el finetuning son evidentes en este proye
 Además, el finetuning permite adaptar el modelo pre-entrenado a una tarea específica, como la clasificación de sentimientos, mediante el ajuste de sus parámetros con datos adicionales. Esto mejora la capacidad del modelo para capturar los matices y complejidades del lenguaje en la tarea específica, lo que se refleja en un mejor rendimiento en la precisión de las predicciones.
 
 Una vez guardado el modelo, lo podemos cargar para realizar previsiones.
+
+[Acceso a archivo Jupyter.](https://github.com/mantiads/trasnformers/blob/main/1_5_fine_tunned.ipynb)
