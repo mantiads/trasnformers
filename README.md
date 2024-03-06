@@ -2,6 +2,7 @@
 
 # <p align="center"> Análisis de Sentimientos en Español mediante Finetuning de Transfer Learning.</p>
 
+![Data Analytics](/img/transfer_learning.PNG)
 
 El proyecto se centra en la mejora de un modelo de lenguaje pre-entrenado para realizar análisis de sentimientos en comentarios en español, utilizando el proceso de finetuning. Este enfoque aprovecha los beneficios del transfer learning, que permite transferir el conocimiento previamente adquirido por un modelo pre-entrenado a una tarea específica, y luego afinarlo con datos adicionales para mejorar su desempeño.
 
