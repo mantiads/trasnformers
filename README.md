@@ -1,4 +1,4 @@
-[Acceso a archivo Jupyter.](https://github.com/mantiads/Recomendacion-Clasiffier/blob/main/modelado.ipynb)
+[Acceso a archivo Jupyter.]((https://github.com/mantiads/trasnformers/blob/main/1_5_fine_tunned.ipynb)
 
 # <p align="center"> Análisis de Sentimientos en Español mediante Finetuning de Transfer Learning.</p>
 
